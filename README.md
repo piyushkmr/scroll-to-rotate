@@ -12,4 +12,6 @@ It watches as you scroll and can rotate any object on page that match with rotat
 
 Here is a demo:
 
-https://i.imgur.com/Nz0WD8j.mp4
+[![Alt](https://i.imgur.com/LBk0B9m.gif])](https://i.imgur.com/Nz0WD8j.mp4)
+
+_Click on the GIF for a high quality demo_
