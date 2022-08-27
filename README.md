@@ -9,3 +9,7 @@ It watches as you scroll and can rotate any object on page that match with rotat
 - Flick to see planets go crazy
 - This is real relative revolving speed
 -  Sun won't reverse, even if planets will
+
+Here is a demo:
+
+https://i.imgur.com/Nz0WD8j.mp4
