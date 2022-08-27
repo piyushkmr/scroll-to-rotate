@@ -1,0 +1,5 @@
+.scroll-spy {
+  pointer-events: none;
+  transform: rotate(var(--rotate, 0deg));
+  transition: transform 0.1s linear;
+}
